@@ -1,16 +1,23 @@
-## Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
-<!--
-**MeeraRao-create/MeeraRao-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hippo](https://cdn.dribbble.com/userupload/41784761/file/original-a61a9e3e4588d69413bf0c7e35853cfc.gif)
 
-Here are some ideas to get you started:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="35" height="35" /> About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate web developer with a robust foundation in modern front-end technologies, including HTML, CSS, JavaScript, and popular frameworks like React (or your preferred framework). My drive comes from the excitement of taking an idea from concept to a tangible, user-friendly web experience. 
+
+I thrive on the challenge of crafting intuitive interfaces and dynamic functionalities that not only look great but also provide real value to users. I'm always eager to collaborate on innovative projects and contribute to teams that are pushing the boundaries of what's possible on the web.
+
+### 🧑‍💻 Tech I work on :
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" /> HTML, CSS, JS<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" /> Python<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" /> Angular<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" /> Type Script<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="25" /> C++
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
+</picture>
